@@ -1,6 +1,6 @@
-# GPTeacher Assistant
+# GPTeacher
 
-GPTeacher Assistant is a Streamlit-based web application designed to help users solve programming tests by providing step-by-step guidance and interactive assistance using OpenAI's GPT-4o model. The application allows users to select a programming test, view its details, and engage in a conversational interface to receive tailored advice and solutions.
+GPTeacher is a Streamlit-based web application designed to help users solve programming tests by providing step-by-step guidance and interactive assistance using OpenAI's GPT-4o model. The application allows users to select a programming test, view its details, and engage in a conversational interface to receive tailored advice and solutions.
 
 ## Features
 
