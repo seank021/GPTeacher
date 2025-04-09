@@ -22,7 +22,7 @@ GPTeacher is a Streamlit-based web application designed to help users solve prog
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/gpteacher.git
+   git clone https://github.com/username/gpteacher.git
    cd gpteacher
    ```
 
@@ -101,7 +101,3 @@ GPTeacher/
 3. **Checker** – Evaluates user responses to determine whether to move forward, provide hints, or reset the plan.
 
 Unlike traditional chatbots, GPTeacher **engages users in an active learning process**, ensuring they fully understand coding concepts rather than just copying solutions.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact [seahn1021@snu.ac.kr](mailto:your.email@example.com).
